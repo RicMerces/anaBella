@@ -1,0 +1,56 @@
+body{
+    background:#d2d2c1 url(foto/fundo.png);
+    font: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Principal{
+    width: 900px;
+
+}
+
+#cabecalho{
+    background-color: #d2d2c1;
+    padding: 18px;
+    font:20px 
+}
+
+#conteudo{
+    background-color: wheat;
+    padding: 16px;
+}
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.nome{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:#363636;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.titulo{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #8B4513;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.imagem{
+    border-style: groove;
+    border-color: #8B4513;
+    border-width: 10px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1px;
+}
+
+.pequenaLogo{
+    width: 10px;
+}
